@@ -23,5 +23,5 @@
 
 ## 相关链接
 
-* restic: https://restic.net/
+* restic: https://restic.net
 * zfs: https://openzfs.org
