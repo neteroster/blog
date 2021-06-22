@@ -18,7 +18,7 @@
 
 当所有音轨均 `Accurately ripped`，允许进入下面的 **编码与压缩** 部分，否则继续本部分。
 
-若所有音轨均未能 `Accurately ripped`，尝试通过 Log 的指导更改 `Offset` 一栏。若一个指定 `Offset` 能让除最后一个音轨之外的所有音轨 `Accurately ripped`，则进入 **编码与压缩** 部分，否则终止整个过程，放弃标准化。
+若所有音轨均未能 `Accurately ripped`，尝试通过 Log 的指导更改 `Offset` 一栏。若一个指定 `Offset` 能让除最后一个（或第一个）音轨之外的所有音轨 `Accurately ripped`，则进入 **编码与压缩** 部分，否则终止整个过程，放弃标准化。
 
 若部分音轨 `Accurately ripped`，立即终止整个过程，放弃标准化。
 
