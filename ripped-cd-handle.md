@@ -8,6 +8,8 @@
 2. [CUETools](http://cue.tools/wiki/Main_Page) latest version.
 3. [Visual Studio Code](https://code.visualstudio.com/) latest version.
 
+## 开始标准化
+
 ### 准备 CD 资料
 首先确定目标 CD 的标题、商品编号等，为命名做好准备。
 
