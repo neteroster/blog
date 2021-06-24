@@ -134,11 +134,13 @@ EAC 将自动测试你的驱动器特性，请稍等片刻。
 
 随后选择 `操作(A) -> 检测间隙(D)`，如图。
 
+![18](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/18.png)
+
 完成后即可开始正式抓取。
 
 选择 `操作(A) -> 测试并抓取镜像及创建 CUE 目录文件 -> 已压缩`。如图。
 
-![18](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/18.png)
+![18](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/19.png)
 
 选择点击左侧 `桌面`，选择 **桌面上的文件夹（请提前建立好）** 点击 `保存(S)`。请不要点击 `此电脑`，否则将闪退！
 
