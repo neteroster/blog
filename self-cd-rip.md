@@ -126,7 +126,7 @@ EAC 将自动测试你的驱动器特性，请稍等片刻。
 
 随后先启动 Exact Audio Copy，然后在驱动器中放入 CD。EAC 中将马上出现读取结果。
 
-在菜单栏选择 `数据库(D) -> 获取 CD 信息(G) -> 从远程元数据源`，如图。
+在菜单栏选择 `数据库(D) -> 获取 CD 信息(G) -> 从远程元数据源(R)`，如图。
 
 ![17](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/17.png)
 
@@ -140,8 +140,19 @@ EAC 将自动测试你的驱动器特性，请稍等片刻。
 
 选择 `操作(A) -> 测试并抓取镜像及创建 CUE 目录文件 -> 已压缩`。如图。
 
-![18](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/19.png)
+![19](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/19.png)
 
 选择点击左侧 `桌面`，选择 **桌面上的文件夹（请提前建立好）** 点击 `保存(S)`。请不要点击 `此电脑`，否则将闪退！
 
 随后 EAC 将开始测试并抓取，等待。
+
+若一切顺利
+
+
+## 问题解决
+
+### CD 异常自动弹出
+
+打开设置，选择 `设备`，左侧选择 `自动播放`，`可移动驱动器` 选项改为 `不执行操作` 即可。如图。
+
+![p1](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/p1.png)
