@@ -36,7 +36,7 @@
 
 将 CD 驱动器用 USB 数据线连接到电脑 USB 接口（若是台式机，应连接背部接口，以确保稳定性）。准备好一张较为热门的 CD（不需要是目标 CD，只要数据库中存在即可，用于校正光盘读取偏移，当然也可以选择目标 CD）。
 
-启动 Exact Audio Copy，首先会弹出下图提升，选择 `否` 即可。
+启动 Exact Audio Copy，首先会弹出下图提示，选择 `否` 即可。
 
 ![2](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/2.png)
 
