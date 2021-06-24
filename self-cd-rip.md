@@ -68,7 +68,7 @@
 
 EAC 将自动测试你的驱动器特性，请稍等片刻。
 
-如图，确保“精确流”为“是”即可。
+如图，确保 `精确流` 为 `是` 即可。
 
 ![7](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/7.png)
 
@@ -84,7 +84,7 @@ EAC 将自动测试你的驱动器特性，请稍等片刻。
 
 命名方案保持默认并选择 `下一页(N) >`。
 
-如图，选择“我是老手，让我使用 EAC 所有潜在特性”。完成配置。
+如图，选择 `我是老手，让我使用 EAC 所有潜在特性`，完成配置。
 
 ![10](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/10.png)
 
