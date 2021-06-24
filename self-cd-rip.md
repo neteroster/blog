@@ -18,7 +18,7 @@
 
 ### 安装 Exact Audio Copy
 
-**(*Optional*)** 如果你以前安装过 EAC，请彻底卸载之，并运行 `dBpoweramp-Reset.exe`（附在本文文件夹中），并点击 `Begin Reset`，这样做是为了彻底清除以前 CD 的偏移数据，以便重新测试之。
+**(*Optional*)** 如果你以前安装过 EAC，请彻底卸载之，并运行 `dBpoweramp-Reset.exe`（[附在本文文件夹中](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/dBpoweramp-Reset.exe)），并点击 `Begin Reset`，这样做是为了彻底清除以前 CD 的偏移数据，以便重新测试之。
 
 打开 EAC 的安装程序，并按默认选项安装之，安装成功后**不要**选择 **立即启动 Exact Audio Copy**。
 
