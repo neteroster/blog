@@ -166,7 +166,7 @@ EAC 将自动测试你的驱动器特性，请稍等片刻。
 
 请注意：专辑背面卡纸的分离方法是：在下如图所示处按顺序分离专辑外壳和放光盘的托架，顺序（1、2）。
 
-![20](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/18.png)
+![20](https://github.com/neteroster/blog/blob/main/self-cd-rip-img/20.png)
 
 ### 整理文件
 
