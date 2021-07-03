@@ -19,11 +19,17 @@
 | End Type             | Time                   | Note                                               |
 |----------------------|------------------------|----------------------------------------------------|
 | Happy End (Day 1 >>) | 5.4 Hours (Unfinished) | (1) 开始刀了... ; (2) 各种不同的元素...有趣但是难受   |
-| Happy End (Day 2 >>) |                        |                                                    |
-| Bad End              |                        |                                                    |
-| True End             |                        |                                                    |
+| Happy End (Day 2 >>) | 7.4 Hours (Finished)   | 眼泪不要钱...                                       |
+| Bad End              | 果然还是看别人打吧...    |                                                    |
+| True End             | 果然还是看别人打吧...    |                                                    |
 
 ## Comment
+
+谢谢你，ARTI，第一位拥有心的机器人。
+
+![3](https://github.com/neteroster/blog/blob/main/arti/4.jpg)
+
+// 待续
 
 ## Music Comment
 
