@@ -40,7 +40,7 @@
 
 虽然内心还是想两位的情感能够永恒......但毕竟不可能。
 
-大团圆式的结局固然焕发着浪漫主义色彩，给人希望。现实的结局却也用泪水与伤痕提醒读者：这个世界并不完美，带领读者思考这有限的时间中生命的终极意义。
+大团圆式的结局固然焕发着浪漫主义色彩，给人希望。但现实的结局却也用泪水与伤痕控诉着这个不完美的世界，带领读者思考这有限的时间中生命的终极意义。
 
 ## Music Comment
 
@@ -50,12 +50,18 @@
 
 * 温暖的时光
 * 黄昏时的风景
+* Dear Moments
 
 ## Screenshots
 
 ![1](https://github.com/neteroster/blog/blob/main/arti/1.png)
 ![2](https://github.com/neteroster/blog/blob/main/arti/2.png)
 ![3](https://github.com/neteroster/blog/blob/main/arti/3.png)
+
+![20210703111724_1](https://user-images.githubusercontent.com/10304206/124346314-a9b91a80-dc10-11eb-9cdf-e22bfffc7b9a.jpg)
+![20210703111730_1](https://user-images.githubusercontent.com/10304206/124346329-be95ae00-dc10-11eb-9484-2e6d7abe3664.jpg)
+![20210703111743_1](https://user-images.githubusercontent.com/10304206/124346332-c0f80800-dc10-11eb-8e4a-b9247c6634af.jpg)
+
 
 ## 彩蛋
 
