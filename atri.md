@@ -21,11 +21,11 @@
 | Happy End (Day 1 >>) | 5.4 Hours (Unfinished) | (1) 开始刀了... ; (2) 各种不同的元素...有趣但是难受   |
 | Happy End (Day 2 >>) | 7.4 Hours (Finished)   | 眼泪不要钱...                                       |
 | Bad End              | [放弃]                 |   /                                                |
-| True End             | Finished (Video)       |   也许...是一个好结局吧。                            |
+| True End             | Finished (Video)       |   也许...是一个好结局吧。但还是有些不能释怀。            |
 
 ## Comment
 
-谢谢你，ARTI，第一位拥有心的机器人。
+谢谢你，ATRI，第一位拥有心的机器人。
 
 ![3](https://github.com/neteroster/blog/blob/main/arti/4.jpg)
 
