@@ -70,7 +70,7 @@
 
 问题：
 
-1. 分不清不送气清音和浊音！（重点攻克）（ http://nihongo.hum.tmu.ac.jp/mic-j/VoAspNew/index.html ）
+1. 分不清不送气清音和浊音！（重点攻克）（ http://nihongo.hum.tmu.ac.jp/mic-j/VoAspNew/index.html ）（PS1：好难，需要找新方法；很怀疑这个日本人可能都分不清吧，差异实在太小了...）
 2. ち・じ不分。
 
 
