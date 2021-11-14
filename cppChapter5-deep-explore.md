@@ -51,7 +51,7 @@ int func(int v)
 ```
 (a.o)
 ---TEXT---
-[..main_func_content..]
+(...main_func_content...)
 
 ---DATA---
 1
