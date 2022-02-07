@@ -1,5 +1,6 @@
-# (GalGame) Little Busters! EX Part A 玩后感
-## 一个关于对真挚情感的不懈追求的华丽乐章
+# (GalGame) Little Busters! EX Part A 玩后感 —— 一个关于对真挚情感的不懈追求的华丽乐章
+
+## “即使会失去，相遇还是无比贵重。”
 
 ```
 ——这样啊，这里就是开始啊。
