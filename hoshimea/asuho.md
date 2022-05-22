@@ -30,3 +30,6 @@
 # 终
 
 果然好故事总是让人回味无穷，感谢《星空下的记忆》贡献的明日步线这样精彩的故事，期待接下来线路的表现！
+
+![image](https://user-images.githubusercontent.com/10304206/169678341-58a2521b-6bb6-4989-8bdc-ff05f4d75b66.png)
+
