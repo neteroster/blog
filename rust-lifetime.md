@@ -45,7 +45,7 @@ fn main() {
 
     let result = max(s1.as_str(), s2.as_str());
 
-    println!("bigger one: {}", result); // bigger one: zhangsan
+    println!("bigger one: {}", result); // bigger one: example
 }
 ```
 
