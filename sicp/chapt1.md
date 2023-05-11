@@ -29,3 +29,5 @@
 * 当描述不能由替换模型建模的过程时，通常 applicative-order evaluation 会比 normal-order evaluation 更简单。不过，normal-order evaluation 也会有珍贵的性质，这在后面章节描述。
 * cond 表达式是一个特别形式 (special form)，cond 表达式中，`(<p> <e>)` 对叫做 **clauses**。
 * cond 求值从上往下（或者说从左往右）遇到第一个谓词 (predicate) 为真的返回对应的 **consequent expression**。
+* `if` 也是一个 special form，而且是 `cond` 的特殊形式。 
+* `and, or` 都是 special form，而不是过程（对于 `cond` 同理），因为他们不一定对所有后续表达式求值。`not` 是普通的过程。
