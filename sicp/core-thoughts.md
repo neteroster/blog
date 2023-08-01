@@ -20,3 +20,7 @@
 * 通过引入 `set!`，我们得以构建行为随时间变化的可计算对象，从而可以建模过程中随时间变化的那一部分，并使之模块化。作为代价，我们失去了利用具有良好数学性质的过程应用替换模型解释对象和赋值的能力。
 * 为什么替换模型无法解释 `set!`：因为替换模型无法表示先后关系[（3.1）](http://sarabander.github.io/sicp/html/3_002e1.xhtml)，本质上来看，替换模型是假定**变量是值的名称**，而引入 `set!` 后变量只能是值的容器，具体的值可以更新。
 * 引入 `set!` 破坏了编程语言中的等价替代性（或引用透明性：Referential transparency），使得我们利用等价代替简化表达式变得困难，进而使得对程序的推理变得棘手。
+
+精彩节选
+
+> Once we forgo referential transparency, the notion of what it means for computational objects to be “the same” becomes difficult to capture in a formal way. Indeed, the meaning of “same” in the real world that our programs model is hardly clear in itself. In general, we can determine that two apparently identical objects are indeed “the same one” only by modifying one object and then observing whether the other object has changed in the same way. But how can we tell if an object has “changed” other than by observing the “same” object twice and seeing whether some property of the object differs from one observation to the next? Thus, we cannot determine “change” without some a priori notion of “sameness,” and we cannot determine sameness without observing the effects of change.
