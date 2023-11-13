@@ -3,6 +3,7 @@
 **本文也一同发布在**：
 * 我的 [bilibili 专栏](https://www.bilibili.com/read/cv24699055)
 * 百度贴吧 [galgame 吧](https://tieba.baidu.com/p/8484758657)
+* 我的 [Bangumi 日志](https://bgm.tv/blog/322280)
 
 ## 本篇的回顾
 
