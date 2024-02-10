@@ -50,11 +50,9 @@
 
   (define res (make-vector n))
   
-  (for ([i (in-range n)])
-    (vector-set! res i (thread-receive)))
-
-  (vector-sort! res < #:key car)
-  (vector-map! cdr res)
+  (for ([_ (in-range n)])
+    (let ([recv (thread-receive)])
+      (vector-set! res (car recv) (cdr recv))))
 
   res)
 
