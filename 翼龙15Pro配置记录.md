@@ -6,7 +6,7 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 2. 有线网卡驱动（机械革命官网）
 3. WiFi 和蓝牙驱动（Intel 官网）
 4. **合适版本**的 AMD 核显驱动（例如当前为 [24.5.1](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-1.html)）（AMD 官网）【安装不合适的版本可能导致严重的稳定性问题】
-5. NVIDIA Studio 版本显卡驱动（NVIDIA 官网）
+5. NVIDIA Studio 版本显卡驱动（NVIDIA 官网）（需包含 GeForce Experience；当前驱动默认包含）
 6. 机械革命控制台（机械革命官网；当前下载方法：服务支持 - 驱动下载 - 产品分类=笔记本 - 产品系列=机械革命控制台 - 产品类目=电竞控制台（40系） - 电竞控制台（14代CPU&8000系）极光X不限U）
 
 ## 第一步 - 安装操作系统
@@ -37,7 +37,7 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 2. 安装准备好的有线网卡驱动程序
 3. 安装准备好的 WiFi 和蓝牙驱动
 4. 安装准备好的 AMD 核显驱动
-5. 安装准备好的 NVIDIA Studio 版本显卡驱动
+5. 安装准备好的 NVIDIA Studio 版本显卡驱动（需同时安装 GeForce Experience，当前安装驱动时可选择）
 6. 重启
 7. 在 AMD 控制台关闭驱动自动更新
 8. 安装准备好的机械革命控制台
@@ -53,4 +53,4 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 
 ## 配置结束
 
-至此配置结束。
+至此配置结束。注意在使用混合模式时，必须保持 GeForce Experience 常驻后台（任务栏）以减少 CPU 占用。
