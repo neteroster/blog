@@ -6,6 +6,7 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 2. 有线网卡驱动（机械革命官网）
 3. WiFi 和蓝牙驱动（Intel 官网）
 4. **合适版本**的 AMD 核显驱动（例如当前为 [24.5.1](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-24-5-1.html)）（AMD 官网）【安装不合适的版本可能导致严重的稳定性问题】
+5. NVIDIA App（NVIDIA 官网）
 5. 机械革命控制台（机械革命官网；当前下载方法：服务支持 - 驱动下载 - 产品分类=笔记本 - 产品系列=机械革命控制台 - 产品类目=电竞控制台（40系） - 电竞控制台（14代CPU&8000系）极光X不限U）
 
 ## 第一步 - 安装操作系统
@@ -36,9 +37,10 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 2. 安装准备好的有线网卡驱动程序
 3. 安装准备好的 WiFi 和蓝牙驱动
 4. 安装准备好的 AMD 核显驱动
-5. 重启
-6. 在 AMD 控制台关闭驱动自动更新
-7. 重启
+5. 安装准备好的 NVIDIA App
+6. 重启
+7. 在 AMD 控制台关闭驱动自动更新
+8. 重启
 
 ## 第五步 - 联网以安装 Windows 更新和少量驱动
 
@@ -50,7 +52,7 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 
 ## 第六步 - 安装最新 NVIDIA Studio 显卡驱动
 
-从 NVIDIA 官网下载 NVIDIA App，并使用 NVIDIA App 安装最新的 NVIDIA Studio 显卡驱动。注意使用清洁安装（恢复出厂设置）。
+使用 NVIDIA App 安装最新的 NVIDIA Studio 显卡驱动。注意使用清洁安装（恢复出厂设置）。
 
 ## 第七步 - 安装机械革命控制台
 
