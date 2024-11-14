@@ -37,7 +37,7 @@ U 盘提前刻录 PE，放入 Windows ISO，并准备下面驱动文件：
 2. 安装准备好的有线网卡驱动程序
 3. 安装准备好的 WiFi 和蓝牙驱动
 4. 安装准备好的 AMD 核显驱动
-5. 安装准备好的 NVIDIA 显卡驱动，随后安装 NVIDIA App
+5. 安装准备好的 NVIDIA 显卡驱动（安装驱动时不要选择安装任何控制台，包括 GeForce Experience 和 NVIDIA App），随后安装准备好的 NVIDIA App
 6. 重启
 7. 在 AMD 控制台关闭驱动自动更新（若可能）
 8. 在 NVIDIA App 关闭驱动自动更新（若可能）
